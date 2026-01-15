@@ -4,6 +4,10 @@ This repository is associated with a research initiative exploring deep learning
 ## Project Overview
 [Deep Age-Invariant Fingerprint Segmentation System](https://arxiv.org/pdf/2303.03341).
 
+**NOTE**: I found their actual paper submission which includes discussion of the TransSEG
+[Deep Age-Invariant Fingerprint Segmentation System](https://www.researchgate.net/publication/386199478_Deep_Age-Invariant_Fingerprint_Segmentation_System)
+
+
 In this research, we developed a deep learning-based method for generating arbitrarily angled bounding boxes to precisely localize and
 label fingerprints in both axis-aligned and over-rotated slap images. We present CRFSEG (Clarkson Rotated Fingerprint Segmentation
 Model), an improvement upon the Faster R-CNN algorithm, incorporating arbitrarily-angled bounding boxes for enhanced performance
