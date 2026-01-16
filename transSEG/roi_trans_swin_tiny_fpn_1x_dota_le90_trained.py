@@ -1,6 +1,6 @@
 _base_ = ['./mmrotate/configs/roi_trans/roi_trans_r50_fpn_1x_dota_le90.py']
 
-pretrained = './trained_model/epoch_6.pth'  # noqa
+pretrained = './trained_model/transSEG.pth'  # noqa
 
 model = dict(
     backbone=dict(
